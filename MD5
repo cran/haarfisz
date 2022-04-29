@@ -1,0 +1,16 @@
+4842886de4bcee4385435c18d67d1956 *DESCRIPTION
+101844e21bcb9c4091a252ce58b00b36 *NAMESPACE
+67bcd0b13f7ab3ee666a71bbce79d7ab *R/HFfunctions.r
+71c01f6dcbda45e831d329b632592376 *R/shift.sequence.R
+1961639f6f4f7f9efffa91b624b3d060 *build/partial.rdb
+31dc41b17a514baf1062bb374cc6559a *data/xquake.rda
+ae03bf5e2a455708af8fbe6c6505bd14 *man/denoise.poisson.rd
+f04550039ba6025d775d82bb2eabb23e *man/haarfisz-package.rd
+f799a9608839a7e232ef2db9e510143b *man/hf.bt.rd
+488cd1e2900f49562d82a6b186a7102f *man/hf.cv.rd
+d2cb05b48f8eaf93ae1c747fdc7075f5 *man/hf.tiu.rd
+c550f45720f7368cba34b902231309b9 *man/hf.u.rd
+aa38bd5c406ffb78d79d62a4f718889b *man/hft.inv.rd
+948ad9360961802c307d266de8e3502c *man/hft.rd
+714e7a628511e19790a8ddb4575e6bd2 *man/shift.sequence.rd
+cb6a58837c89641e8dab59917e974551 *man/xquake.rd
