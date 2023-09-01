@@ -12,13 +12,13 @@
 	Can also carry out cycle-spinning.
 }
 \details{
-\tabular{ll}{
-Package: \tab haarfisz \cr
-Type: \tab Package\cr
-Version: \tab 1.5.2\cr
-Date: \tab 2022-04-27\cr
-License: \tab GPL (>=2)\cr
-}
+Package to denoise Poisson distributed sequence where
+        underlying intensity is not constant. Uses the multiscale
+        variance-stabilization method called the Haar-Fisz transform.
+        Contains functions to carry out the foward and inverse
+        Haar-Fisz transform and denoising on near-Gaussian sequences.
+        Can also carry out cycle-spinning.
+	See main routine \code{\link{denoise.poisson}}
 }
 \author{Piotr Fryzlewicz>
 }
